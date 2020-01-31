@@ -4,7 +4,7 @@
 - __Slack__: https://4-semester-projekt.slack.com/
 
 ### Suggestions for technology
-- React, Styled Components (_CSS library for React_), C# MVC
+- React, [Styled Components](https://styled-components.com/) (_CSS library for React_), C# MVC
 
 ### Commits, branches & naming
 - __Commit messages__ should be as an _instruction_ e.g. `Add login button` instead of `Added login button`
