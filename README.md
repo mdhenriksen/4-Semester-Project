@@ -1,6 +1,7 @@
 # 4-Semester-Project
 
 ### Links :link:
+- __Kanban__: https://github.com/mdhenriksen/4-Semester-Project/projects/1
 - __Slack__: https://4-semester-projekt.slack.com/
 
 ### Suggestions for technology
